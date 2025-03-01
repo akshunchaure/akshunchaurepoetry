@@ -4,7 +4,7 @@ const poems = [
 
     { title: "Eternal Touch of Our Souls", content: "Let our love,\nExpand with time,\nLike consciousness,\nWhich is present inside,\nOf our flesh and bones,\nConnecting us on a level,\nDeeper than our souls\n\nWhenever I close my eyes,\nI start to visualise,\nYour non-physical qualities,\nLike kindness and bliss,\nAs something which I can,\nSee, touch and even kiss.\n\nYour love is like your lips,\nSoft, full, and heart-shaped,\nAnd your thought process\nIt is like your beautiful eyes,\nDeep and ever-expanding\nAs if eternal and infinite.\n\n\nBy Akshun Chaure" },
 
-    { title: "The Goddess of My Desire", content: "The girl I'm talking to right now,\nShe's a special lady,\nWith her body and soul full of glow,\nLike that of an auspicious Devi.\n\n She is a symbol of happiness,Who radiates positivity,\nResembles the light of the sun\nAnd eliminates the darkness of negativity.\n\nShe's a beautiful princess of love,\nAn angel sent from above,\nWhose smile can make anyone's day,\nAnd impact their lives in a positive way.\n\n\n By Akshun Chaure" }
+    { title: "The Goddess of My Desire", content: "The girl I'm talking to right now,\nShe's a special lady,\nWith her body and soul full of glow,\nLike that of an auspicious Devi.\n\n She is a symbol of happiness,\n Who radiates positivity,\nResembles the light of the sun\nAnd eliminates the darkness of negativity.\n\nShe's a beautiful princess of love,\nAn angel sent from above,\nWhose smile can make anyone's day,\nAnd impact their lives in a positive way.\n\n\n By Akshun Chaure" }
     
 ];
 
